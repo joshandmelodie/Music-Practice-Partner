@@ -1,0 +1,10 @@
+/* Add mobile styles for the component here.  */
+.home-button{
+    height: 200px; width: 600px; font-size: 40px;
+ }
+ .home-image{
+     height: 200px; 
+ }
+ .home-label{
+     font-size: 40px;
+ }
